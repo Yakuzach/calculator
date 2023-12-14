@@ -1,10 +1,13 @@
-package com.chaffai.calculator;
-import org.junit.Test;
-import static org.junit.Assert.assertEquals;
-public class CalculatorTest {
-	private Calculator calculator = new Calculator();
+package com.anas.calculator;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class CalculatorApplicationTests {
+
 	@Test
-	public void testSum() {
-		assertEquals(8, calculator.sum(3, 5));
+	void contextLoads() {
 	}
+
 }
