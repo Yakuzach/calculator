@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.anas.calculator.CalculatorApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-12-14T17:53:03" hostname="pc" time="0.651">
+<testsuite name="com.anas.calculator.CalculatorApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-12-14T18:56:16" hostname="pc" time="0.98">
   <properties/>
-  <testcase name="contextLoads()" classname="com.anas.calculator.CalculatorApplicationTests" time="0.651"/>
-  <system-out><![CDATA[12:53:02.575 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.anas.calculator.CalculatorApplicationTests]: CalculatorApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
-12:53:02.659 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.anas.calculator.CalculatorApplication for test class com.anas.calculator.CalculatorApplicationTests
+  <testcase name="contextLoads()" classname="com.anas.calculator.CalculatorApplicationTests" time="0.98"/>
+  <system-out><![CDATA[13:56:13.839 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.anas.calculator.CalculatorApplicationTests]: CalculatorApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+13:56:14.044 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.anas.calculator.CalculatorApplication for test class com.anas.calculator.CalculatorApplicationTests
 
   .   ____          _            __ _ _
  /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
@@ -13,9 +13,9 @@
  =========|_|==============|___/=/_/_/_/
  :: Spring Boot ::                (v3.2.0)
 
-2023-12-14T12:53:02.977-05:00  INFO 24645 --- [    Test worker] c.a.c.CalculatorApplicationTests         : Starting CalculatorApplicationTests using Java 17.0.9 with PID 24645 (started by ana in /home/ana/calculator)
-2023-12-14T12:53:02.979-05:00  INFO 24645 --- [    Test worker] c.a.c.CalculatorApplicationTests         : No active profile set, falling back to 1 default profile: "default"
-2023-12-14T12:53:03.964-05:00  INFO 24645 --- [    Test worker] c.a.c.CalculatorApplicationTests         : Started CalculatorApplicationTests in 1.194 seconds (process running for 2.065)
+2023-12-14T13:56:14.684-05:00  INFO 29526 --- [    Test worker] c.a.c.CalculatorApplicationTests         : Starting CalculatorApplicationTests using Java 17.0.9 with PID 29526 (started by ana in /home/ana/calculator)
+2023-12-14T13:56:14.687-05:00  INFO 29526 --- [    Test worker] c.a.c.CalculatorApplicationTests         : No active profile set, falling back to 1 default profile: "default"
+2023-12-14T13:56:16.284-05:00  INFO 29526 --- [    Test worker] c.a.c.CalculatorApplicationTests         : Started CalculatorApplicationTests in 1.981 seconds (process running for 3.756)
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
